@@ -1,0 +1,132 @@
+:root{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ok{
+    text-align: center;
+    text-decoration: dashed;
+}
+
+nav{
+    background-color: rgb(3, 59, 241);
+    color: rgb(255, 255, 255);
+    padding: 1.5rem;
+    border-bottom-left-radius: 3rem;
+    border-bottom-right-radius: 3rem;
+}
+
+.name{
+    font-weight: bold;
+    font-size: 200%;
+}
+
+.list{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color:white
+}
+
+.ls a:hover{
+   background-color: rgb(184, 192, 228);
+}
+
+
+
+
+.ht .ls{
+    color: aliceblue;   
+    display: inline;
+    padding: 0.5rem 0.5rem;
+}
+
+
+.ht .link{
+    color: rgb(102, 180, 224);
+    text-decoration: none;
+    font-size: 150%;
+}
+
+.pic{
+    width: 30%;
+    height: 50%;
+    margin: auto;
+    display: block;
+}
+
+.ln{
+    text-align: center;
+    
+}
+
+.mn{
+    background-color: rgb(3, 59, 241);
+    padding: 0.1rem;
+    color:white
+    
+}
+
+.pn{
+    background-color:white;
+    padding: 0.5rem; 
+}
+
+.h1 .r{
+    color: black;
+}
+
+.h2 .t{
+font-size: medium;
+color: darkslategray;
+}
+
+button{
+    color: black;
+    background-color: rgb(147, 143, 201);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 1rem;
+    font-weight: 200;
+
+}
+button:hover{
+    background-color: rgb(3, 59, 241);
+}
+footer {
+    padding: 2rem 1rem;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(3, 59, 241);
+    border-top-left-radius: 3rem;
+    color:white;
+    border-top-right-radius: 3rem;
+}
+
+.box-model {
+    width: 60%;;
+}
+
+/* footer */
+footer {
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: large;
+    text-align: center;
+  }
+  
+  .footer-list {
+    margin: 1rem;
+  }
+  
+  a,
+  li {
+    display: inline;
+  }
+  
+  img {
+    width: 40px;
+    padding: 0.2rem;
+  }
+  
